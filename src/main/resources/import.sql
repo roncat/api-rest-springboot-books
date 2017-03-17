@@ -1,0 +1,7 @@
+INSERT INTO "PUBLIC"."AUTOR" VALUES(1,'Brasília','1975-03-18', 'Eric Castro')
+INSERT INTO "PUBLIC"."AUTOR" VALUES(2,'São Paulo','1968-07-25', 'Samanta Dias')
+INSERT INTO "PUBLIC"."BOOK" VALUES(1,'Editora Apolo','PHP','2001-01-01','PHP Total flex',1)
+INSERT INTO "PUBLIC"."BOOK" VALUES(2,'Editora Globo','Java','2010-10-01','Java Aplicado',2)
+INSERT INTO "PUBLIC"."COMENTARIO" VALUES(1,'2017-03-15','Muito bom livro!','Cleber',1) 
+INSERT INTO "PUBLIC"."COMENTARIO" VALUES(2,'2017-03-07','Gostei muito!','Fernando',1) 
+INSERT INTO "PUBLIC"."COMENTARIO" VALUES(3,'2017-02-10','Achei complicado','Fernando',2) 
